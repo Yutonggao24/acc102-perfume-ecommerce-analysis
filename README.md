@@ -60,6 +60,7 @@ Make sure the two CSV files are in the same folder as the notebook.
 ## 6. Files
 
 ```text
+outputs
 README.md
 perfume_ecommerce_market_analysis_executed.ipynb
 ebay_mens_perfume.csv
